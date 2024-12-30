@@ -18,7 +18,7 @@ body {
   transform: translate(-50%, -50%);
   top: 50%;
   left: 50%;
-  background: #340fca;
+  background: #350dd1;
   border-radius: 10px;
   padding: 30px 20px;
 
@@ -57,7 +57,7 @@ body {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 16px;
-  background-color: #00D8FF;
+  background-color: #0dd428;
   border: none;
   color: #1d1515;
   cursor: pointer;
